@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "activityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/ActivityIndicatorView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b90e88d4e9b17aa391e101384f461543dcae8c45"
+      }
+    },
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ce7f662709a152e840b130a158b9afef3402e146"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e979c6945c31c27b5c1ed6c8432aa75d4cd53221"
+      }
+    }
+  ],
+  "version" : 2
+}
